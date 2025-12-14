@@ -1,0 +1,1 @@
+{"name":"Local: leekel","url":"c:\\Users\\Administrator\\Desktop\\leekel\\leekel\\leekel.cpp","tests":[{"id":1764383102610,"input":"abc","output":"NO"},{"id":1764383681412,"input":"123321","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Administrator\\Desktop\\leekel\\leekel\\leekel.cpp","group":"local","local":true}
